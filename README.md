@@ -28,12 +28,4 @@ Dự án này được thiết kế để giúp các nhà hàng, quán ăn dễ 
 - **Font Awesome**: Sử dụng icon  
 - **Google Fonts**: Typography (Playfair Display, Poppins)  
 
----
 
-## 📂 Cách chạy project
-
-```bash
-# clone repo
-git clone https://github.com/ten-cua-ban/ten-repo.git
-
-# mở file index.html trong trình duyệt
